@@ -14,14 +14,14 @@ h1 {
 }
 
 .container .one {
-    background-color: rgb(255, 127, 0);
+    background-color: rgb(127, 255, 0);
 }
 
 .container .two {
-    background-color: rgb(0, 255, 127);
+    background-color: rgb(0,127, 255);
 }
 
 .container .three {
     /* background-color: rgb(127, 0, 255); */
-    background-color: rgb(127,0, 255);
+    background-color: rgb(255,0, 127);
 }
